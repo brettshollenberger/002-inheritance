@@ -32,6 +32,11 @@ npm install
 bower install
 ```
 
+## running the tests
+```bash
+grunt autotest
+```
+
 The MIT License (MIT)
 
 Copyright (c) 2013-2014 Brett Shollenberger
