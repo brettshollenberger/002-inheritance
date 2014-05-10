@@ -1,5 +1,36 @@
 # Building the Base Class
 
+## setup
+
+### homebrew
+```bash
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+```
+
+### node
+```bash
+brew install node
+```
+
+### npm (node package manager)
+```bash
+curl http://npmjs.org/install.sh | sh
+```
+
+### bower (front-end package manager)
+```bash
+npm install -g bower
+```
+
+### install node packages
+```bash
+npm install
+```
+
+### install bower packages
+```bash
+bower install
+```
 
 The MIT License (MIT)
 
